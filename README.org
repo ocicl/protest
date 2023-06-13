@@ -1,0 +1,10 @@
+* protest
+
+PROtocol and TESTcase manager
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/phoe/protest.git   |
+| commit  | be88513  |
+| systems | protest |
+|---------+-------------------------------------------|
+
